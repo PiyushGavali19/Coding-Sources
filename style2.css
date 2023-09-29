@@ -1,0 +1,44 @@
+*{
+    margin: 0px;
+    font-family: 'Times New Roman', Times, serif;
+    color:aliceblue;
+}
+
+body{
+    background-image: url(cpp_bg1.jpg);
+    background-size:cover ;
+}
+
+#c1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    width: auto;
+    background-color:rgb(30, 45, 45);
+}
+#c2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+}
+#c_img{
+    border-radius: 5%;
+}
+.img{
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}
+#article{
+    padding: 10px;
+}
+.last{
+    display: flex;
+    justify-content: center; 
+    padding: 20px;
+}
+.lst:hover{
+    color: blue;
+}

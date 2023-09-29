@@ -1,0 +1,50 @@
+*{
+    margin: 0px;
+    font-family: 'Times New Roman', Times, serif;
+    color:aliceblue;
+}
+body{
+    background-image: url(bg2.jpg);
+    background-size:cover; 
+}
+#n1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    width: auto;
+    background-color:darkslategrey;
+}
+#n2{
+    color:white;
+}
+#h3{
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+#one{
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+#html{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#css{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+#js{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.Wlst:hover{
+    color: blue;
+}

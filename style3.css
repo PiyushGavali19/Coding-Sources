@@ -1,0 +1,67 @@
+*{
+    margin: 0px;
+    font-family: 'Times New Roman', Times, serif;
+    color:aliceblue;
+}
+
+body{
+    background-image: url(j_bg.webp);
+    background-size: cover;
+}
+
+#j1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    width: auto;
+    background-color:rgb(18, 22, 59);
+}
+
+#j2{
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+#j3{
+    padding: 15px;
+
+}
+#j4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+}
+
+#j5{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 8px;
+}
+#j6{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 8px;
+}
+#j7{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 8px;
+}
+#j7_:hover{
+    color:bisque;
+}
+#j8{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+}
+#j8_:hover{
+    color: bisque;
+}

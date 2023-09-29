@@ -1,0 +1,85 @@
+body{
+    
+    background-image: url(cd2.jpg);
+    background-size: cover;
+}
+h1,p,h3,h2,h4{
+    color:white;
+}
+#foa{
+    text-align: center;
+}
+#f,#t,#th,#fr{
+    margin: 25px;
+}
+
+form{
+    color: white;
+}
+#table{
+    padding: 30px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+th,td{
+    color: white;
+}
+.tbl{
+    text-decoration: none;
+    color: green;
+}
+a{
+    color:burlywood;
+}
+#anc{
+    color: cornsilk;
+    text-decoration: underline;
+}
+button{
+    background-color: cornflowerblue;
+}
+img{
+    text-align: center;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 20%;
+    height: 130px;
+    width: 130px;
+}
+#WD{
+    margin: 20px;
+}
+#CPP{
+    margin: 20px;
+}
+#JAVA{
+    margin: 20px;
+}
+#ANDR{
+    margin: 20px;
+}
+#img{
+    text-align: center;
+}
+.ip{
+    border: 2px;
+    border-style: solid;
+}
+#footer{
+    text-align: center;
+    padding-bottom: 10px;
+}
+#foa{
+    text-transform: capitalize;
+}
+#i1{
+    padding-left: 50px;
+}
+#i2{
+    text-decoration:solid;
+}
+#i2:hover{
+    color: blue;
+}
